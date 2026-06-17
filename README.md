@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hi there, I'm Amanda 👋</h1>
+<h1 align="center">Hi there, I'm Amanda Moreira 👋</h1>
 
 ###
 
@@ -29,7 +29,9 @@
 
 ###
 
-<p align="left"># Amanda Moreira<br><br>Junior Full Stack Developer | JavaScript • Java • Python • MySQL<br><br>Passionate about building responsive web applications, creating intuitive user experiences, and continuously expanding my technical skills.<br><br>🌱 Currently learning: Java Development & UX/UI.<br><br>💡 Strong believer that great software starts with curiosity, collaboration, and clean code.<br><br>Let's build something awesome together! 🚀</p>
+<h1>Amanda Moreira</h1>
+<br>
+<p align="left">Junior Full Stack Developer | JavaScript • Java • Python • MySQL<br><br>Passionate about building responsive web applications, creating intuitive user experiences, and continuously expanding my technical skills.<br><br>🌱 Currently learning: Java Development & UX/UI.<br><br>💡 Strong believer that great software starts with curiosity, collaboration, and clean code.<br><br>Let's build something awesome together! 🚀</p>
 
 ###
 
