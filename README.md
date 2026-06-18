@@ -29,9 +29,7 @@
 
 ###
 
-<h1>Amanda Moreira</h1>
-<br>
-<p align="left">Junior Full Stack Developer | JavaScript • Java • Python • MySQL<br><br>Passionate about building responsive web applications, creating intuitive user experiences, and continuously expanding my technical skills.<br><br>🌱 Currently learning: Java Development & UX/UI.<br><br>💡 Strong believer that great software starts with curiosity, collaboration, and clean code.<br><br>Let's build something awesome together! 🚀</p>
+<p align="left">Junior Full Stack Developer | JavaScript • Java • Python • MySQL<br><br>Passionate about building responsive web applications, creating intuitive user experiences, and continuously expanding my technical skills.<br><br>🌱 Currently learning: Java Development & UX/UI.<br><br>💡 Strong believer that great software starts with curiosity and collaboration.<br><br>Let's build something awesome together! 🚀</p>
 
 ###
 
@@ -73,7 +71,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
